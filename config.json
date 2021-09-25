@@ -1,0 +1,66 @@
+{
+  "squares": [
+    { "name": "Media",
+      "color": "red",
+      "links": [
+        { "name": "Spotify", "url": "https://open.spotify.com/" },
+        { "name": "Soap2day", "url": "https://soap2day.to" },
+        { "name": "Youtube", "url": "https://youtube.com" },
+        { "name": "Z-library (Books)", "url": "https://z-lib.org/" }
+        
+      ]
+    },
+    { "name": "Education",
+      "color": "#26A69A",
+      "links": [
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "localhost", "url": "http://localhost:8000/" },
+        { "name": "Master Calander ", "url": "https://docs.google.com/spreadsheets/d/1ITPCrd2MWE51vJON1TwGt80TIpi-lqbimAkud1tkC4k/edit#gid=1979712717"},
+        { "name": "NMIMS Portal ", "url": "https://portal.svkm.ac.in/usermgmt/login"}
+      ]
+    },
+    { "name": "Social",
+      "links": [
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "Megathread ", "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index" },
+        { "name": "Whattsapp ", "url": "https://web.whatsapp.com/" }
+        
+        
+      ]
+    },
+    {
+      "name": "Education 2",
+      "links": [
+        {"name": "Gmail", "url": "http://gmail.com/"},
+        {"name": "Classroom", "url": "https://classroom.google.com/h"},
+        {"name": "Drive", "url": "https://drive.google.com/drive/my-drive"},
+        {"name": "MS Office", "url": "https://www.office.com/"}
+      ]
+    }
+  ],
+  "searchEngine":"DuckDuckGo",
+  "user": "Yash ",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false,
+  "disable24Hour": true,
+  "disableWeather": true,
+  "timeZone": "America/Los_Angeles",
+  "weatherConf": {
+    "location": "Mumbai, India",
+    "unit": "cel"
+  },
+  "settingsIcon": false,
+  "style": {
+    "backgroundColor": "#212121",
+    "messageColor": "#fff",
+    "dateColor": "#d9d9d9",
+    "lineColor": "#fff",
+    "weatherColor": "#d9d9d9",
+    "searchColor": "#fff",
+    "searchBackgroundColor": "#2e2e2e",
+    "squareColor": "#9e9e9e",
+    "squareBackgroundColor": "#2e2e2e",
+    "autocompleteHighlightBackgroundColor": "#3B3B3B"
+  }
+}
