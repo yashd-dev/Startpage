@@ -4,7 +4,7 @@
       "color": "red",
       "links": [
         { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "Soap2day", "url": "https://soap2day.to" },
+        { "name": "Soap2day", "url": "https://soap2day.sh" },
         { "name": "Youtube", "url": "https://youtube.com" },
         { "name": "Z-library (Books)", "url": "https://z-lib.org/" }
         
@@ -15,7 +15,6 @@
       "links": [
         { "name": "Github", "url": "https://github.com" },
         { "name": "localhost", "url": "http://localhost:8000/" },
-        { "name": "Master Calander ", "url": "https://docs.google.com/spreadsheets/d/1ITPCrd2MWE51vJON1TwGt80TIpi-lqbimAkud1tkC4k/edit#gid=1979712717"},
         { "name": "NMIMS Portal ", "url": "https://portal.svkm.ac.in/usermgmt/login"}
       ]
     },
@@ -29,7 +28,7 @@
       ]
     },
     {
-      "name": "Education 2",
+      "name": "Education",
       "links": [
         {"name": "Gmail", "url": "http://gmail.com/"},
         {"name": "Classroom", "url": "https://classroom.google.com/h"},
@@ -41,13 +40,13 @@
   "searchEngine":"DuckDuckGo",
   "user": "Yash ",
   "disableMessage": false,
-  "disableDate": false,
+  "disableDate": true,
   "disableSearchBar": false,
   "disable24Hour": true,
   "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "Kolkata/Asia",
   "weatherConf": {
-    "location": "Mumbai, India",
+    "location": "Pune, India",
     "unit": "cel"
   },
   "settingsIcon": false,
